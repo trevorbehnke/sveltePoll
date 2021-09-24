@@ -19,7 +19,7 @@
 			question: "Python or JavaScript?",
 			answerA: "Python",
 			answerB: "JavaScript",
-			voteA: 9,
+			votesA: 9,
 			votesB: 15
 		}
 	]
