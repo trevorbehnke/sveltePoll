@@ -1,5 +1,5 @@
 <footer>
-  <div class="copyright">Copyright 2021 T Ninja</div>
+  <div class="copyright">Copyright 2021 T-Ninja</div>
 </footer>
 
 <style>
